@@ -1,6 +1,6 @@
 # Computer Vision Assignments
 #### Assignment Details
-### Part 1: supervised contrastive learning  - Using new loss 
+### Part 1: Supervised contrastive learning  - Using new loss 
 Write a colab to demonstrate supervised contrastive learning loss based supervised classification versus regular softmax based one
 ### Part 2: Transfer learning on various modalities : 
 Transfer learning on various modalities : Write simple colabs to transfer learn on images, videos, audios -  - with both as a feature extractor as well as a fine tuning usecases. Showcase basic transfer learning for a classification task (either cats/dogs or breeds of dogs) in a colab - with both as a feature extractor as well as a fine tuning usecase
